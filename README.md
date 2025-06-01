@@ -8,7 +8,7 @@ Data Source
 The core expression data for this project is sourced from The Cancer Genome Atlas (TCGA) Glioblastoma (GBM) cohort.
 
 Expression Data: glio.tsv
-This TSV file contains expression clustering analysis data for 100 genes across 287 glioblastoma cases.
+This TSV file contains expression clustering analysis data for 1000 genes across 287 glioblastoma cases.
 It is assumed that this file also contains a 'Tissue type' column to distinguish between Normal and Tumor samples.
 Clinical Data: Additional clinical and demographic data (e.g., age, gender, ethnicity, primary diagnosis, race, and survival information) were also utilized from the TCGA database to provide context and perform survival analyses.
 Analysis Workflow
