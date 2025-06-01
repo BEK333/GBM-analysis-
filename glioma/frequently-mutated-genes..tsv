@@ -1,0 +1,14 @@
+gene_id	symbol	name	cytoband	type	num_cohort_ssm_affected_cases	num_cohort_ssm_cases	cohort_ssm_affected_cases_percentage	num_gdc_ssm_affected_cases	num_gdc_ssm_cases	gdc_ssm_affected_cases_percentage	num_cohort_cnv_cases	num_cohort_cnv_amplification_cases	cohort_cnv_amplification_cases_percentage	num_cohort_cnv_gain_cases	cohort_cnv_gain_cases_percentage	num_cohort_cnv_heterozygous_deletion_cases	cohort_cnv_heterozygous_deletion_cases_percentage	num_cohort_cnv_homozygous_deletion_cases	cohort_cnv_homozygous_deletion_cases_percentage	num_mutations	annotations
+ENSG00000130294	KIF1A	kinesin family member 1A	2q37.3	protein_coding	4	251	1.59	494	16747	2.95	277	0	0.00	12	4.33	23	8.30	0	0.00	5	
+ENSG00000104723	TUSC3	tumor suppressor candidate 3	8p22	protein_coding	3	251	1.20	210	16747	1.25	277	1	0.36	12	4.33	23	8.30	1	0.36	3	
+ENSG00000160862	AZGP1	alpha-2-glycoprotein 1, zinc-binding	7q22.1	protein_coding	3	251	1.20	109	16747	0.65	277	36	13.00	185	66.79	1	0.36	0	0.00	3	
+ENSG00000277586	NEFL	neurofilament light	8p21.2	protein_coding	3	251	1.20	194	16747	1.16	277	1	0.36	11	3.97	26	9.39	0	0.00	3	
+ENSG00000092969	TGFB2	transforming growth factor beta 2	1q41	protein_coding	2	251	0.80	158	16747	0.94	277	3	1.08	21	7.58	16	5.78	0	0.00	3	
+ENSG00000184613	NELL2	neural EGFL like 2	12q12	protein_coding	2	251	0.80	336	16747	2.01	277	2	0.72	17	6.14	26	9.39	0	0.00	4	
+ENSG00000162975	KCNF1	potassium voltage-gated channel modifier subfamily F member 1	2p25.1	protein_coding	1	251	0.40	204	16747	1.22	277	0	0.00	14	5.05	15	5.42	0	0.00	2	
+ENSG00000171428	NAT1	N-acetyltransferase 1	8p22	protein_coding	1	251	0.40	60	16747	0.36	277	1	0.36	12	4.33	25	9.03	1	0.36	1	
+ENSG00000234745	HLA-B	major histocompatibility complex, class I, B	6p21.33	protein_coding	1	251	0.40	176	16747	1.05	277	0	0.00	7	2.53	30	10.83	0	0.00	1	
+ENSG00000156006	NAT2	N-acetyltransferase 2	8p22	protein_coding	0	251	0.00	95	16747	0.57	277	1	0.36	12	4.33	26	9.39	1	0.36	0	
+ENSG00000171368	TPPP	tubulin polymerization promoting protein	5p15.33	protein_coding	0	251	0.00	73	16747	0.44	277	1	0.36	15	5.42	20	7.22	0	0.00	0	
+ENSG00000180573	H2AC6	H2A clustered histone 6	6p22.2	protein_coding	0	251	0.00	78	16747	0.47	277	0	0.00	6	2.17	31	11.19	0	0.00	0	
+ENSG00000256235	SMIM3	small integral membrane protein 3	5q33.1	protein_coding	0	251	0.00	15	16747	0.09	277	1	0.36	13	4.69	26	9.39	0	0.00	0	
