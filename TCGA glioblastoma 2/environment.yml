@@ -1,0 +1,26 @@
+name: wgcna-pipeline
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - scanpy
+  - umap-learn
+  - gseapy
+
+  # pyDESeq2 (bioconda)
+  - bioconda::pydeseq2
+
+  # PyWGCNA (pip)
+  - pip
+  - pip:
+      - PyWGCNA
+      - anndata
+      - scipy
+      - statsmodels
